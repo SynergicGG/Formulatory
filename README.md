@@ -1,2 +1,0 @@
-# Formulatory
-Created with CodeSandbox
